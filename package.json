@@ -1,0 +1,17 @@
+{
+  "name": "phaserTut",
+  "version": "0.0.0",
+  "description": "tutorial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevin yan",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
